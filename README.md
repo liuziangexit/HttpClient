@@ -1,2 +1,2 @@
 # HttpClient
-An callback-style async HttpClient write in Java.
+回调式接口的异步Http客户端，基于Java NIO.2
